@@ -110,4 +110,4 @@ When names clash, the previous node wins. The `data.` prefix is optional, so <co
 - **Mapping data:** pass values from the trigger data into action parameters
 - **Branching:** drive `If` and `Switch` conditions with values from the data
 
-Refer to user docs for [common use cases](https://docs.shopware.com/en/shopware-6-en/shopware-services/shopware-nexus?category=shopware-6-en/insider-previews#common-use-cases)
+Refer to user docs for [common use cases](https://docs.shopware.com/en/shopware-6-en/shopware-services/shopware-nexus#typical-use-cases)

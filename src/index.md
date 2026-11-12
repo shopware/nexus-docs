@@ -6,12 +6,6 @@ nav:
 
 # Shopware Nexus Overview
 
-:::warning
-**Early Access Notice**
-
-Shopware Nexus is currently in **Early Access**. The range of functions is limited and may expand in future updates. Behaviour and scope may change.
-:::
-
 :::info
 **Questions or feedback?**
 
@@ -30,7 +24,7 @@ It empowers merchants to orchestrate systems visually using low-code simplicity,
 - Provides real-time execution monitoring
 - Manages team access with role-based permissions
 
-## Available in Early Access
+## Available features
 
 | Feature                      | Description                                                    |
 | ---------------------------- | -------------------------------------------------------------- |
@@ -50,9 +44,9 @@ It empowers merchants to orchestrate systems visually using low-code simplicity,
 | Workflow Versioning          | Published version history with compare and restore             |
 | User Management & Roles      | Admin, Builder, and Viewer roles per company                   |
 
-## Limitations in Early Access
+## Current limitations
 
-The following capabilities are **not available during Early Access**:
+The following capabilities are **not currently available**:
 
 - SLA guarantees  
 - 24/7 support  
@@ -61,12 +55,3 @@ The following capabilities are **not available during Early Access**:
 
 Nexus is a managed cloud service. On-premise and self-hosted deployment are not being considered at this time.
 
-## Coming after Early Access
-
-| Feature                   | Planned For | Description             |
-| ------------------------- | ----------- | ----------------------- |
-| AI-Assisted Authoring     | GA          | Intelligent suggestions |
-| Advanced Analytics        | GA          | Performance insights    |
-| Per-Tenant Quotas         | GA          | Usage & billing         |
-| Additional ERP Connectors | Post-GA     | SAP, Oracle, etc.       |
-| Custom Node Development   | Post-GA     | Custom workflow nodes   |
